@@ -1,0 +1,32 @@
+*{
+	padding:0; margin:0;
+}
+h1{
+	font-family: 'Monda', sans-serif, bold; font-size:200px; color:#99ccff;
+}
+h2{
+	font-family: 'Monda', sans-serif; font-size: 60px; color:#000033;
+}
+.buttonku{
+	font-family: 'Monda', sans-serif, bold; font-size:20px; color:#99ccff;
+}
+p{
+	font-family: 'Saira', sans-serif; font-size:17px;
+}
+
+
+header{
+	background:#99ccff;
+	padding: 10px 20px;
+	margin-bottom: 0;
+	position: relative;
+	z-index: 5;
+}
+header a{
+	color: #003366;
+	text-decoration: none;
+}
+header img{
+	float: left;
+}
+
